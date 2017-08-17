@@ -1,0 +1,51 @@
+{"users":[
+  {
+    "id": "1",
+    "name": "Oleg",
+    "age": 23,
+    "city": "Kiev",
+    "img": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/03/03dbe511390bcc7f310c1f8a21e0d821b790117e_full.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Dima",
+    "age": 43,
+    "city": "Lviv",
+    "img": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/03/03dbe511390bcc7f310c1f8a21e0d821b790117e_full.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Petya",
+    "age": 25,
+    "city": "Odessa",
+    "img": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/03/03dbe511390bcc7f310c1f8a21e0d821b790117e_full.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Ira",
+    "age": 15,
+    "city": "Kiev",
+    "img": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/03/03dbe511390bcc7f310c1f8a21e0d821b790117e_full.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Gena",
+    "age": 87,
+    "city": "Odessa",
+    "img": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/03/03dbe511390bcc7f310c1f8a21e0d821b790117e_full.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Lena",
+    "age": 54,
+    "city": "Lviv",
+    "img": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/03/03dbe511390bcc7f310c1f8a21e0d821b790117e_full.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Oleg",
+    "age": 14,
+    "city": "Kiev",
+    "img": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/03/03dbe511390bcc7f310c1f8a21e0d821b790117e_full.jpg"
+  }
+  ]}
